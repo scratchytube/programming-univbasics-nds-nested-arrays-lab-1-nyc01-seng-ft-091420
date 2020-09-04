@@ -39,7 +39,7 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-   matrix = [
+   assembled_matrix = [
    CONVENTIONAL_PRODUCE,
   ORGANIC_PRODUCE,
   ]
